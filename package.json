@@ -1,8 +1,9 @@
 {
-  "name": "create-node-app",
+  "name": "express-g32",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": "./bin/cli.js",
   "scripts": {
     "start": "node src/server",
     "dev": "nodemon src/server"
